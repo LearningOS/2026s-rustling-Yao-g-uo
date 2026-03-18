@@ -6,6 +6,7 @@
 // hint.
 
 
+
 fn main() {
     let word = String::from("green"); // Try not changing this line :)
     if is_a_color_word(&word) {
